@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
+=======
+ hghghjg`elloh
+>>>>>>> origin/feature1
 jhbhbbhjuic
 koly
